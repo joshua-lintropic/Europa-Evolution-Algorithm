@@ -1,7 +1,7 @@
 # europa-band-algorithm
 Implementation of research conducted with NASA-JPL to sort bands on Europa's ice-shell lithosphere by relative age and to identify areas of geologic reactivation. Findings from both geological analysis (separate) and relative ages algorithm (this project) presented to scientists at the [NASA Jet Propulsion Lab (JPL)](https://www.jpl.nasa.gov/) in Pasadena on May 12th, 2023. 
 * Research Coordinators: [Dr. Robert Pappalardo](https://science.jpl.nasa.gov/people/pappalardo/) (Europa Clipper Project Scientist), [Dr. Erin Leonard](https://science.jpl.nasa.gov/people/leonard/) (Europa Clipper Staff Scientist), [Dr. Michelle Selvans](https://airandspace.si.edu/people/staff/michelle-selvans) (PhD Caltech).
-* Team Members: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips.
+* Research Team: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips.
 
 ![NASA Galileo's Solid-State Imager](https://astrogeology.usgs.gov/ckan/dataset/cc38d1df-db15-41f3-90d6-4e63e3c4420f/resource/5b88e3af-5b36-47df-bc83-e3e323cd6fee/download/europa_mosaic_thumbnail_1024.jpg)
 
