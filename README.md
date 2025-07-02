@@ -3,7 +3,7 @@ Implementation of research conducted with NASA-JPL to sort bands on Europa's ice
 * Research Coordinators: [Dr. Robert Pappalardo](https://science.jpl.nasa.gov/people/pappalardo/) (Europa Clipper Project Scientist), [Dr. Erin Leonard](https://science.jpl.nasa.gov/people/leonard/) (Europa Clipper Staff Scientist), [Dr. Michelle Selvans](https://airandspace.si.edu/people/staff/michelle-selvans) (PhD Caltech).
 * Team Members: Joshua Lin, Cheyanne Macagno, Malika Neal, David Baize II, Scott Phillips.
 
-Image mosaics analyzed from ![NASA Galileo's Solid-State Imager]([https://astrogeology.usgs.gov/search/map/Europa/Mosaic/Equirectangular_Mosaics_of_Europa_v3](https://astrogeology.usgs.gov/ckan/dataset/cc38d1df-db15-41f3-90d6-4e63e3c4420f/resource/5b88e3af-5b36-47df-bc83-e3e323cd6fee/download/europa_mosaic_thumbnail_1024.jpg)):
+![NASA Galileo's Solid-State Imager](https://astrogeology.usgs.gov/ckan/dataset/cc38d1df-db15-41f3-90d6-4e63e3c4420f/resource/5b88e3af-5b36-47df-bc83-e3e323cd6fee/download/europa_mosaic_thumbnail_1024.jpg)
 
 # Abstract
 
